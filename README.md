@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Troy-MA
-- 👀 I’m interested in Mobile app dev and server side programming
-- 🌱 I’m currently learning flutter and node
-- 💞️ I’m looking to collaborate on Mobile app dev projects and Api Projects
-- 📫 How to reach me @ troyma009@gmail.com
+- 👋 Hi, I’m @Troy-MA or Troy "Mhone Alfred"
+- 👀 I’m interested in Mobile/Web App Dev and Serverless Computing
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Mobile/Web app dev projects and Api Projects
+- 📫 How to reach me @ troyma009@gmail.com or alfred@ignitionloop.com
 - 📱 My TechStack is
    - Flutter 🐣
    - Node 🟢
@@ -10,6 +10,7 @@
    - Apollo Server (A)
    - Graph QL 💹
    - Firebase 🔥
+   - Google Cloud
    - Mongo 🍃
 - Logic
   - Python 🧠
